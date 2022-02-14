@@ -1,2 +1,2 @@
-# JogoPong
- Jogo Pong desenvolvido em Javascript
+# :tennis: Jogo Pong
+Jogo Pong desenvolvido em Javascript
